@@ -151,4 +151,4 @@ class Youtube_Subs_Widget extends WP_Widget {
 		return $instance;
 	}
 
-} // class Foo_Widget
+} // class Youtube_Subs_Widget
